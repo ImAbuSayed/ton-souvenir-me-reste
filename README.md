@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-souvenir-me-reste/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ton Souvenir Me Reste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-souvenir-me-reste/) |
+| **Get License** | [Music Rights & Licensing for Ton Souvenir Me Reste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-souvenir-me-reste/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre, ton parfum m'enivre encore
+> Ton corps contre le mien, la chaleur sur le décor
+> Tu bouges au ralenti, sous les néons de la ville
+> Ton souvenir me reste, mon cœur bat sur le fil
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
