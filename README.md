@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-souvenir-me-reste/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ton Souvenir Me Reste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-souvenir-me-reste/) |
+| **Get License** | [Commercial Licensing for Ton Souvenir Me Reste](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-souvenir-me-reste/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6eccaef0dc72140f0065e075d76c96521ea4f0d283b95b34be13d405bd7e83a9` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
